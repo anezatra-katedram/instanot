@@ -1,5 +1,5 @@
 # Instanot Follower Analyzer v1.0 🏹
-![banner image](https://github.com/anezatra/instanot/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/instanot/blob/main/banner.jpg)
 ## What is a Instanot Follower Analyzer ?
 This tool allows you to see the users who do not follow you on your Instagram account, allowing you to easily unfollow these users. Additionally, thanks to Instanot, you can also identify users who never liked your posts and never interacted with them. In this way, you can increase the interaction on your account and optimize your follower list. You can also perform these analyzes on a target user.
 ## Api info 📲
